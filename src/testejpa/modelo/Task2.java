@@ -12,8 +12,8 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
 @Entity
-@Table(name="task")
-public class Task {
+@Table(name="task5")
+public class Task2 {
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
